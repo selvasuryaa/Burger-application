@@ -1,0 +1,20 @@
+#person{
+    border: 2px solid black;
+    background-color: chartreuse;
+    color: crimson;
+    font-weight: bold;
+    margin: 16px auto;
+    padding: 10px;
+    width: 520px;
+    text-align: center;
+    /* position: relative; */
+    box-shadow: inset 0 0 5px grey;
+
+}
+button{
+    background-color: cyan;
+    color: red;
+    outline: none;
+    padding: 6px 5px;
+    font-weight: bold;
+}
